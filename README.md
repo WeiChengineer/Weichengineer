@@ -36,6 +36,7 @@ Here are some of my main projects:
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=WeiChengineer&show_icons=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WeiChengineer&theme=dark&background=000000)](https://git.io/streak-stats)
 
 Feel free to explore my repositories and connect with me!
 

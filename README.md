@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm WeiCheng (Tobias) Chen👋
 
-<!--
-**WeiChengineer/Weichengineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer with a love for problem-solving and creating efficient solutions. My journey in software engineering started with freeCodeCamp during the COVID-19 pandemic, and I haven't looked back since.
 
-Here are some ideas to get you started:
+## 🌐 Socials
+- LinkedIn: https://www.linkedin.com/in/weichengineer/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- Languages: JavaScript, Python, SQL
+- Frontend: React, HTML, CSS
+- Backend: Node.js, Express, Flask
+- Databases: PostgreSQL
+- Version Control: Git, GitHub
+
+## 📘 Projects
+Here are some of my main projects:
+
+### [Project Name 1]
+- Description: [Brief Description]
+- Live Link: [Live Link]
+- ![Screenshot/GIF](link_to_screenshot)
+- Technologies: React, Node.js, PostgreSQL
+
+### [Project Name 2]
+- Description: [Brief Description]
+- Live Link: [Live Link]
+- ![Screenshot/GIF](link_to_screenshot)
+- Technologies: Python, Flask, MongoDB
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+Feel free to explore my repositories and connect with me!
+
+## 📫 Contact Me
+**Email:** [Your Email]  
+**Location:** [Your Location]

@@ -35,10 +35,10 @@ Here are some of my main projects:
 - Technologies: Python, Flask, MongoDB
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=WeiChengineer&show_icons=true&theme=radical)
 
 Feel free to explore my repositories and connect with me!
 
 ## 📫 Contact Me
-**Email:** [Your Email]  
-**Location:** [Your Location]
+**Email:** Weichengineer@gmail.com 
+**Location:** [You

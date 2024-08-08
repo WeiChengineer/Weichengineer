@@ -42,4 +42,4 @@ Feel free to explore my repositories and connect with me!
 
 ## 📫 Contact Me
 **Email:** Weichengineer@gmail.com 
-**Location:** [You
+**Location:** San Francisco, California
